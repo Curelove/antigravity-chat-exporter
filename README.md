@@ -131,7 +131,6 @@ Antigravity 的本地数据格式可能随版本更新而调整。若脚本不�
 - 不上传、不发送、不联网读取你的 Antigravity 对话。
 - 不修改 Antigravity 数据库和日志。
 - 导出的 Markdown 可能包含敏感对话、文件路径、代码和项目内容，请自行妥善保管。
-- 不要把导出的 Markdown、`.gemini` 目录、`conversation_summaries.db` 或 `transcript.jsonl` 提交到 GitHub。
 
 ## 常见问题
 
