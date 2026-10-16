@@ -1,0 +1,15 @@
+# 导出的对话内容，可能包含隐私信息
+Antigravity_Chat_Export.md
+*_Chat_Export.md
+*.jsonl
+
+# Antigravity 本地数据和 SQLite 数据库
+.gemini/
+*.db
+*.db-shm
+*.db-wal
+
+# Windows 与编辑器临时文件
+Thumbs.db
+Desktop.ini
+.vscode/
