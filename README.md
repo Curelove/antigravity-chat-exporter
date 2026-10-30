@@ -4,7 +4,8 @@
 > 专为 Windows 打造的 Google Antigravity 本地会话导出工具。直接只读解析本机会话摘要库与 `transcript` 日志，通过可视化列表按「会话标题 + 工作区 + 首句摘要」精准点选，支持 **纯净复盘模式** 与 **含完整 Thinking 推理及工具调用记录的详尽模式**。
 
 <!-- 请在 GitHub 网页端编辑此文件，将录制好的 6 秒导出与粘贴预览 GIF 直接拖拽到下方替换下一行 -->
-![Antigravity Chat Exporter 演示](请在此处拖拽上传双击cmd选择会话序号一键导出Markdown并粘贴到编辑器的演示.gif)
+
+![agy对话导出](https://github.com/user-attachments/assets/11b30979-dcc7-4ee2-a4d5-1952dff86318)
 
 ---
 
